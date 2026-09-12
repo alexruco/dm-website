@@ -1,0 +1,73 @@
+{
+  "profile": {
+    "firstName": "Dimensão",
+    "lastName": "Aclamada",
+    "title": "Marketing e Tecnologia Informática Unipessoal Lda",
+    "company": "dimensao-aclamada.pt",
+    "bio": "Master’s (Coimbra), MBA (FGV) & Scopus Author | Google Cert. | Partner to Portuguese Mint, DRE & major accounts",
+    "photoInitials": "DM",
+    "photoUrl": "",
+    "address": "Zona Industrial Lote 22 Centro de Biomassa - Miranda do Corvo, Portugal",
+    "website": "dimensao-aclamada.pt",
+    "phone": "+351927734057",
+    "phoneDisplay": "+351 927 734 057",
+    "email": "info@dimensao-aclamada.pt"
+  },
+  "ui": {
+    "pageTitle": "{name} — Dimensao Aclamada",
+    "pageDescription": "Digital business card website",
+    "qrAlt": "Card QR code",
+    "sharePrompt": "Point your camera to",
+    "shareEmphasis": "get this info.",
+    "shareSuffix": ""
+  },
+  "palette": {
+    "bg": "#0f1b2b",
+    "bg2": "#16273c",
+    "paper": "#eee8db",
+    "textDim": "#9fb0c4",
+    "textDim2": "#cdd6e2",
+    "accent": "#c8a24a",
+    "accentDim": "#c8a24a55",
+    "line": "#3a4b62"
+  },
+  "video": {
+    "enabled": false,
+    "type": "file",
+    "url": "",
+    "poster": "",
+    "caption": ""
+  },
+  "actions": [
+    {
+      "label": "Save contact (.vcf)",
+      "icon": "fa-solid fa-user-plus",
+      "type": "vcard",
+      "primary": true
+    },
+    {
+      "label": "+351 927 734 057",
+      "icon": "fa-solid fa-phone",
+      "type": "tel",
+      "value": "+351927734057"
+    },
+    {
+      "label": "info@dimensao-aclamada.pt",
+      "icon": "fa-solid fa-envelope",
+      "type": "email",
+      "value": "info@dimensao-aclamada.pt"
+    }
+  ],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "icon": "fa-brands fa-linkedin-in",
+      "url": "https://www.linkedin.com/company/dimens%C3%A3o-aclamada/"
+    },
+    {
+      "label": "WhatsApp",
+      "icon": "fa-brands fa-whatsapp",
+      "url": "https://wa.me/351927734057"
+    }
+  ]
+}
